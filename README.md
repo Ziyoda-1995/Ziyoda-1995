@@ -71,13 +71,6 @@ Coffee in one hand, terminal in the other ☕💻.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=voidrc&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=voidrc&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 📫 Let’s Connect!
 
@@ -88,8 +81,3 @@ Coffee in one hand, terminal in the other ☕💻.
   <a href="https://github.com/Ziyoda-1995"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Hacker GIF" width="300" />
-</p>
