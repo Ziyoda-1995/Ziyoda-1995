@@ -23,8 +23,6 @@ Coffee in one hand, terminal in the other ☕💻.
 
 ## 🛠 My Arsenal
 
-## 🛠 My Arsenal
-
 <p align="center">
   <!-- Dasturlash tillari -->
   <img alt="C" src="https://skillicons.dev/icons?i=c" height="50" />
@@ -57,7 +55,6 @@ Coffee in one hand, terminal in the other ☕💻.
   <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" height="50" />
   <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" height="50" />
 </p>
-
 
 ---
 
