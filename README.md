@@ -38,13 +38,6 @@ Coffee in one hand, terminal in the other ☕💻.
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="50" />
   <img alt="GitLab" src="https://skillicons.dev/icons?i=gitlab" height="50" />
   
-  <!-- Tarmoq va kiberxavfsizlik asboblari -->
-  <img alt="Wireshark" src="https://skillicons.dev/icons?i=wireshark" height="50" />
-  <img alt="Nmap" src="https://skillicons.dev/icons?i=nmap" height="50" />
-  <img alt="Metasploit" src="https://skillicons.dev/icons?i=metasploit" height="50" />
-  <img alt="Burp Suite" src="https://skillicons.dev/icons?i=burpsuite" height="50" />
-  <img alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux" height="50" />
-  
   <!-- Kod tahlil va boshqalar -->
   <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="50" />
   <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="50" />
