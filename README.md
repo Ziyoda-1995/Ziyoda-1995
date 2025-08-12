@@ -23,15 +23,41 @@ Coffee in one hand, terminal in the other ☕💻.
 
 ## 🛠 My Arsenal
 
+## 🛠 My Arsenal
+
 <p align="center">
+  <!-- Dasturlash tillari -->
   <img alt="C" src="https://skillicons.dev/icons?i=c" height="50" />
   <img alt="Python" src="https://skillicons.dev/icons?i=python" height="50" />
+  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" height="50" />
+  
+  <!-- Operatsion tizimlar -->
   <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img alt="Windows" src="https://skillicons.dev/icons?i=windows" height="50" />
+  
+  <!-- Versiya nazorati -->
   <img alt="Git" src="https://skillicons.dev/icons?i=git" height="50" />
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="50" />
+  <img alt="GitLab" src="https://skillicons.dev/icons?i=gitlab" height="50" />
+  
+  <!-- Tarmoq va kiberxavfsizlik asboblari -->
   <img alt="Wireshark" src="https://skillicons.dev/icons?i=wireshark" height="50" />
   <img alt="Nmap" src="https://skillicons.dev/icons?i=nmap" height="50" />
   <img alt="Metasploit" src="https://skillicons.dev/icons?i=metasploit" height="50" />
+  <img alt="Burp Suite" src="https://skillicons.dev/icons?i=burpsuite" height="50" />
+  <img alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux" height="50" />
+  
+  <!-- Kod tahlil va boshqalar -->
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img alt="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="50" />
+  
+  <!-- Qo'shimcha vositalar -->
+  <img alt="SQL" src="https://skillicons.dev/icons?i=mysql,postgresql" height="50" />
+  <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" height="50" />
+  <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" height="50" />
 </p>
+
 
 ---
 
